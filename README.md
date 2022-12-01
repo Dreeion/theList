@@ -9,3 +9,4 @@ Cours web mobile M2 Nantes
 Les **membres constituant le groupe** sont les suivants :
 
 - Alexandre Garault ([Dreeion](https://github.com/Dreeion))
+- Romain Neil ([romain-neil](https://github.com/romain-neil))
