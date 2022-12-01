@@ -4,3 +4,9 @@
 
 # theList
 Cours web mobile M2 Nantes
+## Contributeurs
+
+Les **membres constituant le groupe** sont les suivants :
+
+- Alexandre Garault ([Dreeion](https://github.com/Dreeion))
+- Axelle Guinaudeau ([Theia01](https://github.com/Theia01))
